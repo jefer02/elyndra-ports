@@ -1,35 +1,35 @@
 # Ports catalog report (2026-11-09)
 
-- Included: **628** (112 verified, 516 unverified)
-- Installable: **499**; VR headset only: **9**; not on Android yet: **120**
-- Excluded: **293**
+- Included: **640** (113 verified, 527 unverified)
+- Installable: **510**; VR headset only: **9**; not on Android yet: **121**
+- Excluded: **299**
 - Missing art (cover or hero): **31**
-- Discovered this run: **0**
+- Discovered this run: **18**
 
 
 ## Per platform
 
 | Platform | Installable | VR only | Not on Android yet |
 |---|---|---|---|
-| pc | 187 | 4 | 75 |
+| pc | 190 | 4 | 75 |
 | n64 | 50 | 0 | 15 |
 | xbox360 | 50 | 0 | 5 |
 | xbox | 48 | 0 | 3 |
 | gc | 20 | 3 | 1 |
-| dos | 13 | 0 | 8 |
+| dos | 14 | 0 | 8 |
+| switch | 21 | 0 | 1 |
 | ps2 | 16 | 1 | 4 |
-| switch | 20 | 0 | 1 |
+| snes | 15 | 0 | 0 |
 | gba | 12 | 0 | 1 |
-| wii | 12 | 0 | 1 |
+| wii | 11 | 0 | 2 |
 | ps4 | 12 | 0 | 0 |
-| snes | 11 | 0 | 0 |
 | psx | 8 | 0 | 1 |
+| nds | 6 | 0 | 2 |
 | psp | 7 | 0 | 1 |
 | gbc | 6 | 0 | 0 |
-| nds | 4 | 0 | 2 |
 | wiiu | 5 | 1 | 0 |
+| nes | 5 | 0 | 0 |
 | megadrive | 3 | 0 | 1 |
-| nes | 4 | 0 | 0 |
 | gb | 3 | 0 | 0 |
 | dreamcast | 2 | 0 | 0 |
 | saturn | 2 | 0 | 0 |
@@ -49,6 +49,7 @@
 | Descent | dos | descentdroid (slowcoder/descentdroid) | source | unverified (< 100 stars, < 3 contributors) | check_requirements | no releases |
 | Descent II | dos | Descent2-Mobile (devint1/Descent2-Mobile) | source | unverified (< 100 stars, < 3 contributors) | check_requirements | no releases |
 | Descent II | dos | Descent2-Android (wootbeer/Descent2-Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.12 · 2026-10-29 |
+| Descent II | dos | Descent2-Mobile (AstrohackerML/Descent2-Mobile) | android | unverified (repo < 1 year, < 100 stars) | — | v1.0 · 2026-10-14 |
 | Doom | dos | com.mobilerpgpack.phone (andreyvelsk/com.mobilerpgpack.phone) | android | verified | — | 2.9.1-ds.1.0.2 · 2026-06-10 |
 | Doom | dos | com.mobilerpgpack.phone (GASQBDUV/com.mobilerpgpack.phone) | android | unverified (repo < 1 year, < 100 stars) | — | rgds-build-7 · 2026-10-16 |
 | Prince of Persia | dos | sdlpop-android (mgrz18/sdlpop-android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | check_requirements, debug_build | v1.0.0 · 2026-05-02 |
@@ -186,9 +187,12 @@
 | Pokémon HeartGold and SoulSilver | nds | HeartSoulRecomp (aabrole/HeartSoulRecomp) | android | unverified (repo < 1 year, < 100 stars) | — | v0.4.0 · 2026-10-11 |
 | Pokémon SoulSilver | nds | pokemon-fulldex (mamesj/pokemon-fulldex) | android | unverified (repo < 1 year) | — | fulldex-2026-11-08 · 2026-11-08 |
 | Pokémon SoulSilver | nds | ssrecomp (ClickingMaster/ssrecomp) | source | unverified (repo < 1 year, < 3 contributors) | — | v0.4.2 · 2026-10-18 |
+| Pokémon SoulSilver | nds | pokemon-fulldex (gabrielvie/pokemon-fulldex) | android | unverified (repo < 1 year, < 100 stars) | — | android-shortcuts · 2026-11-01 |
+| Pokémon SoulSilver | nds | pokemon-ds-widescreen (ivange91/pokemon-ds-widescreen) | android | unverified (repo < 1 year, < 100 stars) | — | en-es-v0.1.0 · 2026-10-30 |
 | The Legend of Zelda: Phantom Hourglass | nds | phantom-hourglass-recomp (dguillot-gh/phantom-hourglass-recomp) | source | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | no releases |
 | Super Mario Bros. | nes | super-mario-bros.-remastered-android (mircowuffwuff/super-mario-bros.-remastered-android) | android | verified | — | 9 · 2026-07-23 |
-| Super Mario Bros. | nes | super-mario-bros.-remastered-android (chrisgoo209-wq/super-mario-bros.-remastered-android) | android | verified | prerelease | android-6 · 2026-11-09 |
+| Super Mario Bros. | nes | super-mario-bros.-remastered-android (chrisgoo209-wq/super-mario-bros.-remastered-android) | android | verified | prerelease | android-9 · 2026-11-09 |
+| VS. Super Mario Bros. | nes | vs-smb-recomp (jp244btc/vs-smb-recomp) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.3.1 · 2026-11-09 |
 | Zelda II: The Adventure of Link | nes | z2rs (troyedwardsjr/z2rs) | android | unverified (repo < 1 year, < 3 contributors) | — | v0.6.0 · 2026-10-22 |
 | Zelda II: The Adventure of Link | nes | z2rs-android-2p-splitscreen (doctormajid7-ux/z2rs-android-2p-splitscreen) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | debug_build | v0.1.0-android · 2026-09-28 |
 | 3D Pinball for Windows – Space Cadet | pc | Pinball-on-Android (fexed/Pinball-on-Android) | android | verified | check_requirements | 2.5 · 2023-10-08 |
@@ -196,7 +200,7 @@
 | 3D Pinball for Windows – Space Cadet | pc | ftpinball-android (zakkyhidayat/ftpinball-android) | android | verified | — | v0.5.4 · 2026-11-06 |
 | 3D Pinball for Windows – Space Cadet | pc | Space-Cadet-Pinball-Android-JUICED (cjohnsto-nz/Space-Cadet-Pinball-Android-JUICED) | android | unverified (repo < 1 year, < 100 stars) | — | 3.1.1 · 2026-01-13 |
 | Aerofoil | pc | Aerofoil (elasota/Aerofoil) | android | unverified (< 100 stars) | check_requirements | 1.1.2 · 2021-11-10 |
-| AM2R | pc | AM2R-Autopatcher-Android (am2r-android/AM2R-Autopatcher-Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | check_requirements | v1.5.5.14 · 2026-11-01 |
+| AM2R | pc | AM2R-Autopatcher-Android (PatchDev-AM2ARM/AM2R-Autopatcher-Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | check_requirements | v1.5.5.14 · 2026-11-01 |
 | AM2R | pc | AM2R-Autopatcher-Android (Coastrhododendronsafetyfuse419/AM2R-Autopatcher-Android) | source | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | no releases |
 | Ambermoon | pc | Ambermoon.net (Pyrdacor/Ambermoon.net) | android | verified | — | v1.15.2 · 2026-11-08 |
 | Angband | pc | angband-android (takkaria/angband-android) | source | unverified (< 100 stars, < 3 contributors) | check_requirements | no releases |
@@ -260,7 +264,7 @@
 | Doom 3 | pc | com.n0n3m4.diii4a (glKarin/com.n0n3m4.diii4a) | android | verified | check_requirements | v1.1.0harmattan73 · 2026-09-30 |
 | Doom 3 | pc | darkmodquest (permabulk69420-pixel/darkmodquest) | vr | verified | check_requirements | quest-streaming-rendering-fix · 2026-11-08 |
 | Doom 3 | pc | com.n0n3m4.diii4a (tib-kpl/com.n0n3m4.diii4a) | android | verified | check_requirements | build-63 · 2026-10-12 |
-| Doom RPG | pc | com.mobilerpgpack.phone (sandstranger/com.mobilerpgpack.phone) | android | verified | — | 3.5.10 · 2026-11-07 |
+| Doom RPG | pc | com.mobilerpgpack.phone (sandstranger/com.mobilerpgpack.phone) | android | verified | — | 3.5.11 · 2026-11-09 |
 | Doom RPG | pc | Luna-Game-3D-Android (LucyYuih/Luna-Game-3D-Android) | android | verified | — | 1.0 · 2026-05-20 |
 | DOOM RPG | pc | DoomRPG-RE-Android (CanavarIT/DoomRPG-RE-Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | debug_build | v1.0.0 · 2026-09-28 |
 | Dr. Robotnik's Ring Racers | pc | ring-racers-srb2-port (thegreatbbd94-ux/ring-racers-srb2-port) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | check_requirements | v2.4-android-6 · 2026-10-25 |
@@ -331,6 +335,7 @@
 | Micropolis | pc | andropolis (ds17f/andropolis) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | check_requirements | v0.1.7 · 2026-09-30 |
 | Might and Magic VI: The Mandate of Heaven | pc | OpenEnroth (OpenEnroth/OpenEnroth) | android | verified | prerelease | nightly · 2026-09-28 |
 | Mirror's Edge | pc | Glassline (MoonCellar-Team/Glassline) | android | unverified (repo < 1 year, < 100 stars) | — | v1.4.2 · 2026-10-30 |
+| Monster Hunter 4 Ultimate | pc | 4u-native (khorne-hub/4u-native) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.1.8 · 2026-11-09 |
 | Nazi Zombies | pc | Nazi-Zombies-Portable-on-Android-idTech4A- (obunga99/Nazi-Zombies-Portable-on-Android-idTech4A-) | source | unverified (repo < 1 year, < 100 stars, < 3 contributors) | no_source | no releases |
 | Need for Speed II SE | pc | NFSIISE (zaps166/NFSIISE) | android | verified | zip | v1.4.0 · 2024-03-16 |
 | Need for Speed II SE | pc | NFSIISE.AndroidDev (AdrielXXO/NFSIISE.AndroidDev) | android | verified | check_requirements | Android_English · 2026-07-10 |
@@ -381,6 +386,7 @@
 | S.T.A.L.K.E.R.: Call of Pripyat | pc | OpenXray16-Android-Port (rolipayr15/OpenXray16-Android-Port) | vr | unverified (repo < 1 year, < 100 stars, < 3 contributors) | prerelease, debug_build | v0.7.3 · 2026-09-29 |
 | Serious Sam: The Second Encounter | pc | Serious-Sam-Android (aarcangeli/Serious-Sam-Android) | android | unverified (< 100 stars) | check_requirements | v1.04.0 · 2019-05-19 |
 | Serious Sam: The Second Encounter | pc | Serious-Sam-Android (Skyrimus/Serious-Sam-Android) | android | unverified (< 100 stars) | check_requirements | v1.05.3 · 2022-11-26 |
+| Serious Sam: The Second Encounter | pc | Serious-Sam-Android (sergioroprado/Serious-Sam-Android) | android | unverified (< 100 stars) | check_requirements | v1.04.15 · 2021-08-20 |
 | Shortline | pc | reSL (konovalov-aleks/reSL) | android | unverified (< 100 stars, < 3 contributors) | check_requirements | release-1.1.3 · 2026-08-08 |
 | Simon Tatham's Portable Puzzle Collection | pc | sgtpuzzles (chrisboyle/sgtpuzzles) | android | verified | — | 2025-09-12-1919-23762278 · 2025-09-15 |
 | Simon Tatham's Portable Puzzle Collection | pc | sgtpuzzles (FanFront/sgtpuzzles) | android | verified | — | v1.0.3 · 2026-10-22 |
@@ -413,9 +419,10 @@
 | The Elder Scrolls III: Morrowind | pc | Android-OpenMW (SCARaw/Android-OpenMW) | android | verified | — | 0.47EN · 2024-03-15 |
 | The Elder Scrolls III: Morrowind | pc | openmw-android (Scandal-UK/openmw-android) | android | verified | check_requirements, debug_build | 0.47.0-47 · 2022-10-02 |
 | The Elder Scrolls III: Morrowind | pc | openmw-android-xyzz (evanjrowley/openmw-android-xyzz) | android | verified | check_requirements, debug_build | 0.51.0-51 · 2026-09-27 |
+| The Elder Scrolls III: Morrowind | pc | openmw-android (ddCeka/openmw-android) | android | verified | check_requirements, debug_build | v1 · 2026-10-23 |
 | The Elder Scrolls III: Morrowind | pc | OpenMW-Android (Andiweli/OpenMW-Android) | android | unverified (repo < 1 year, < 100 stars) | — | 0.51.0-14 · 2026-10-28 |
 | The Elder Scrolls III: Morrowind | pc | OpenMW-Android (des1roer/OpenMW-Android) | android | unverified (repo < 1 year, < 100 stars) | check_requirements | v1.0.0 · 2026-10-31 |
-| The Elder Scrolls III: Morrowind | pc | morrowind-performance-android (DieuDeGlace/morrowind-performance-android) | android | unverified (repo < 1 year, < 100 stars) | prerelease | v0.51.0-physics.preview.9 · 2026-11-09 |
+| The Elder Scrolls III: Morrowind | pc | morrowind-performance-android (DieuDeGlace/morrowind-performance-android) | android | unverified (repo < 1 year, < 100 stars) | prerelease | v0.51.0-physics.preview.11 · 2026-11-09 |
 | The Elder Scrolls III: Morrowind | pc | OpenMW-Android (ernesnend-maker/OpenMW-Android) | android | unverified (repo < 1 year, < 100 stars) | — | fisica-6 · 2026-11-09 |
 | The Elder Scrolls III: Morrowind | pc | Morrowind-OpenMW-Android-KR (munument1/Morrowind-OpenMW-Android-KR) | source | unverified (repo < 1 year, < 100 stars, < 3 contributors) | check_requirements | android-korean-0.51.0-12-kr12.6-data-only · 2026-11-03 |
 | The Elder Scrolls III: Morrowind | pc | OpenMW-Android (Stlucifer15t/OpenMW-Android) | android | unverified (repo < 1 year, < 100 stars) | debug_build | apk-0.51.0-14-16 · 2026-11-05 |
@@ -478,7 +485,7 @@
 | Road Trip Adventure | ps2 | RoadTripAdventure-recomp (silentsudin/RoadTripAdventure-recomp) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.2.3 · 2026-10-11 |
 | Road Trip Adventure | ps2 | RoadTripAdventure-recomp (carlospw09jk-netizen/RoadTripAdventure-recomp) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.2.6 · 2026-10-15 |
 | Ultimate Spider-Man | ps2 | Ultimate_Spider_Man_Android (deivid22srk/Ultimate_Spider_Man_Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.0.4 · 2026-10-27 |
-| White Album 2 | ps3 | whitealbum2-Android (dorakyuraduang/whitealbum2-Android) | android | unverified (< 3 contributors) | prerelease | r0.1 · 2026-10-19 |
+| White Album 2 | ps3 | whitealbum2-Android (dorakyuraduang/whitealbum2-Android) | android | unverified (< 3 contributors) | prerelease | r0.2.57 · 2026-10-19 |
 | Bloodborne | ps4 | Bloodborne-Android (ducvd89/Bloodborne-Android) | android | unverified (repo < 1 year) | — | android-2.2.1 · 2026-11-08 |
 | Bloodborne | ps4 | Bloodborne-Android (emerytech/Bloodborne-Android) | android | unverified (repo < 1 year, < 100 stars) | — | thor-v0.23.0-preview.1 · 2026-11-02 |
 | God of War III Remastered | ps4 | gow3_android (zFitness/gow3_android) | android | unverified (repo < 1 year) | — | v2.1.7-bionic-v4 · 2026-10-23 |
@@ -489,7 +496,7 @@
 | P.T. | ps4 | pt-pc (mrbopcorntime-create/pt-pc) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | prerelease | android-latest · 2026-10-29 |
 | The Last of Us Remastered | ps4 | tlou-remastered-android (erickmendes22/tlou-remastered-android) | android | unverified (repo < 1 year, < 100 stars) | — | v0.1.1-android-bionic · 2026-11-08 |
 | The Last of Us Remastered | ps4 | tlou-remastered-android-universal (pavelgajdo/tlou-remastered-android-universal) | android | unverified (repo < 1 year, < 100 stars) | prerelease | v0.1.1-universal.8 · 2026-11-08 |
-| Uncharted: The Nathan Drake Collection | ps4 | uncharted-android (revvv991/uncharted-android) | android | unverified (repo < 1 year, < 100 stars) | prerelease | v0.3.0 · 2026-11-08 |
+| Uncharted: The Nathan Drake Collection | ps4 | uncharted-android (revvv991/uncharted-android) | android | unverified (repo < 1 year) | prerelease | v0.3.0 · 2026-11-08 |
 | Uncharted: The Nathan Drake Collection | ps4 | uncharted-android (erickmendes22/uncharted-android) | android | unverified (repo < 1 year, < 100 stars) | — | Uncharted-Android-0.2.9 · 2026-10-29 |
 | God of War: Chains of Olympus | psp | gow-chains-of-olympus-pc (arnaldolima1/gow-chains-of-olympus-pc) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | prerelease | v0.1.0 · 2026-10-15 |
 | God of War: Chains of Olympus | psp | gow-psp-recomp-android (flavinxs0/gow-psp-recomp-android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | android-v1.0.2 · 2026-11-06 |
@@ -499,7 +506,7 @@
 | Monster Hunter Freedom Unite | psp | FreedomUniteRecomp (PateeerQ/FreedomUniteRecomp) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.4.3 · 2026-11-08 |
 | Monster Hunter Portable 3rd HD Ver. | psp | Yakumo (TeamGDB/Yakumo) | android | unverified (repo < 1 year) | — | v0.7.5 · 2026-10-13 |
 | Tekken 6 | psp | azazel6 (zxyandreay/azazel6) | source | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | no releases |
-| Crash Bandicoot | psx | CrashBandicoot-Launcher (Matteo842/CrashBandicoot-Launcher) | android | unverified (repo < 1 year) | — | 2.4 · 2026-10-30 |
+| Crash Bandicoot | psx | CrashBandicoot-Launcher (Matteo842/CrashBandicoot-Launcher) | android | unverified (repo < 1 year) | — | 2.5 · 2026-11-09 |
 | Crash Team Racing | psx | ctr-native-android (igawa6/ctr-native-android) | android | unverified (repo < 1 year, < 100 stars) | — | v0.1.0 · 2026-08-30 |
 | Crash Team Racing | psx | CTRStaticRecompAndroid (LorenzoAlfaro/CTRStaticRecompAndroid) | source | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | no releases |
 | Dino Crisis | psx | DinoCrisis-Native-Android (silasquercloud/DinoCrisis-Native-Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | debug_build | v0.1.3-alpha · 2026-09-11 |
@@ -520,14 +527,18 @@
 | The Legend of Zelda: A Link to the Past | snes | zelda3 for Android (Waterdish/zelda3-android) | android | unverified (< 3 contributors) | — | v1.0.2 · 2023-08-23 |
 | The Legend of Zelda: A Link to the Past | snes | Moonpearl (DoutorRaposo/moonpearl) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.0.0 · 2026-10-07 |
 | The Legend of Zelda: A Link to the Past | snes | zelda3-android (yeticarus/zelda3-android) | android | unverified (< 100 stars) | — | v1.0.0 · 2024-10-19 |
+| The Legend of Zelda: A Link to the Past | snes | zelda3-android (master4life/zelda3-android) | android | unverified (repo < 1 year, < 100 stars) | — | 1.0.1 · 2026-03-21 |
 | The Legend of Zelda: A Link to the Past | snes | zelda3-android (Soyalexf/zelda3-android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.3.1 · 2026-09-17 |
 | The Legend of Zelda: A Link to the Past | snes | zelda3-android (freyta/zelda3-android) | android | unverified (< 100 stars, < 3 contributors) | — | nightly-release-1234 · 2024-01-07 |
 | The Legend of Zelda: A Link to the Past | snes | zelda3-android (alpedroza/zelda3-android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.1.0 · 2026-10-21 |
+| The Legend of Zelda: A Link to the Past | snes | zelda3-android (diegommcosta/zelda3-android) | android | unverified (repo < 1 year, < 100 stars) | — | v2.1.0 · 2026-10-17 |
+| The Legend of Zelda: A Link to the Past | snes | zelda3-android (GASQBDUV/zelda3-android) | android | unverified (repo < 1 year, < 100 stars) | debug_build | rgds-build-4 · 2026-10-16 |
+| The Legend of Zelda: A Link to the Past | snes | zelda3-android-ds (nexa-builds/zelda3-android-ds) | android | unverified (repo < 1 year, < 100 stars) | — | v2.2 · 2026-10-24 |
 | Tiny Toon Adventures: Buster Busts Loose! | snes | BusterBustsLoose (Darhkfox/BusterBustsLoose) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | android-v1.0 · 2026-10-07 |
 | Dark Souls Remastered | switch | dsr-native (kvse/dsr-native) | android | unverified (repo < 1 year, < 100 stars) | — | v0.0.1 · 2026-11-08 |
-| Diablo III | switch | diablo3-port (Desm0nt/diablo3-port) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | prerelease, debug_build | v0.2.4-debug · 2026-11-06 |
+| Diablo III | switch | diablo3-port (Desm0nt/diablo3-port) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.2.5 · 2026-11-09 |
 | Monster Hunter Generations Ultimate | switch | gu-native (khorne-hub/gu-native) | android | unverified (repo < 1 year, < 3 contributors) | — | v0.1.8 · 2026-11-09 |
-| Monster Hunter Generations Ultimate | switch | gu-native (klark231/gu-native) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.1.6-fork.27 · 2026-11-09 |
+| Monster Hunter Generations Ultimate | switch | gu-native (klark231/gu-native) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.1.8-fork.28 · 2026-11-09 |
 | Monster Hunter Generations Ultimate | switch | gu-native (BelmanteGu/gu-native) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.1.6 · 2026-11-06 |
 | Pokémon: Let's Go, Eevee! | switch | letsgo-recomp-android (CowKillers/letsgo-recomp-android) | android | unverified (repo < 1 year, < 100 stars) | check_requirements | v0.1 · 2026-11-06 |
 | Super Mario Bros. Wonder | switch | SuperMarioWonderRecomp (BluetufieBugado/SuperMarioWonderRecomp) | source | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | no releases |
@@ -541,18 +552,19 @@
 | The Legend of Zelda: Breath of the Wild | switch | BOTWRecompAndroid (Lennowlen/BOTWRecompAndroid) | android | unverified (repo < 1 year, < 100 stars) | — | v0.2.4-matepad · 2026-10-30 |
 | The Legend of Zelda: Echoes of Wisdom | switch | EoWRecomp (Nycolazs/EoWRecomp) | android | unverified (repo < 1 year, < 3 contributors) | prerelease | alpha_1 · 2026-10-21 |
 | The Legend of Zelda: Link's Awakening | switch | LASRecomp-Android-Plus (Nycolazs/LASRecomp-Android-Plus) | android | unverified (repo < 1 year) | — | android-v1.2.0 · 2026-10-23 |
+| The Legend of Zelda: Link's Awakening | switch | LASRecomp-Android-Plus (timyang2005/LASRecomp-Android-Plus) | android | unverified (repo < 1 year, < 100 stars) | — | v1.2.0-cn8 · 2026-11-09 |
 | The Legend of Zelda: Link's Awakening | switch | ZLAA (timbo722/ZLAA) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v0.1.0 · 2026-11-08 |
 | The Legend of Zelda: Tears of the Kingdom | switch | TOTKDroid (mamcjr/TOTKDroid) | android | unverified (repo < 1 year) | prerelease | v0.2.2-beta · 2026-11-09 |
 | The Legend of Zelda: Tears of the Kingdom | switch | totk-android (AurelioB/totk-android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.0.1 · 2026-11-05 |
 | Tomodachi Life: Living the Dream | switch | tomodachi-ltd-recomp-android (anaretete/tomodachi-ltd-recomp-android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.0.3 · 2026-10-15 |
-| Mario Kart Wii | wii | kartpad (chrissotraidis/kartpad) | android | unverified (repo < 1 year) | — | v0.8.9 · 2026-11-09 |
+| Mario Kart Wii | wii | kartpad (chrissotraidis/kartpad) | android | unverified (repo < 1 year) | — | v0.8.10 · 2026-11-09 |
 | Mario Kart Wii | wii | driftdroid (dorPXP/driftdroid) | android | unverified (repo < 1 year) | prerelease | v1.4.0-test3-mangmi-airx · 2026-11-04 |
 | Mario Kart Wii | wii | KartPad-AAOS (Andiweli/KartPad-AAOS) | android | unverified (repo < 1 year, < 100 stars) | — | 1.1 · 2026-09-11 |
 | Mario Kart Wii | wii | driftdroid-aura (edgHD/driftdroid-aura) | android | unverified (repo < 1 year, < 100 stars) | — | v1.4.0-aura.1 · 2026-11-04 |
 | Monster Hunter Tri | wii | OceanTriRecomp-Android (Kiridor123/OceanTriRecomp-Android) | android | unverified (repo < 1 year, < 100 stars) | — | v1.6 · 2026-11-08 |
 | Monster Hunter Tri | wii | OceanTriRecomp-Android (akyat/OceanTriRecomp-Android) | android | unverified (repo < 1 year, < 100 stars) | prerelease | v1.5.5-test · 2026-11-01 |
 | Monster Hunter Tri | wii | OceanTriRecomp-Android (efryansyah29/OceanTriRecomp-Android) | android | unverified (repo < 1 year, < 100 stars) | — | v1.5-cheats-final · 2026-10-27 |
-| Monster Hunter Tri | wii | OceanTriRecomp-Android (Stlucifer15t/OceanTriRecomp-Android) | android | unverified (repo < 1 year, < 100 stars) | — | v1.6 · 2026-11-09 |
+| Monster Hunter Tri | wii | OceanTriRecomp-Android (Stlucifer15t/OceanTriRecomp-Android) | source | unverified (repo < 1 year, < 100 stars) | — | no releases |
 | Monster Hunter Tri | wii | OceanTriRecomp-Android (yushbush343-create/OceanTriRecomp-Android) | android | unverified (repo < 1 year, < 100 stars) | prerelease | v1.5.5-test · 2026-11-03 |
 | Monster Hunter Tri | wii | OceanTriRecomp-Android (zensatoru-ops/OceanTriRecomp-Android) | android | unverified (repo < 1 year, < 100 stars) | prerelease | v1.5.5-test · 2026-11-07 |
 | New Super Mario Bros. Wii | wii | NSMB Wii Recompiled (WitherBlitz/NSMB-Wii-Recompilation) | android | unverified (repo < 1 year) | — | v0.5.0 · 2026-11-08 |
@@ -566,7 +578,7 @@
 | The Legend of Zelda: The Wind Waker HD | wiiu | WindWakerHD-Android-Plus (tib-kpl/WindWakerHD-Android-Plus) | android | unverified (repo < 1 year, < 100 stars) | — | build-183 · 2026-10-27 |
 | Black | xbox | Black-Android (RanggaCasper/Black-Android) | android | unverified (repo < 1 year) | — | v1.8.1 · 2026-11-01 |
 | Black | xbox | Black-mobiu (contatg/Black-mobiu) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.3.2-launcher-teste.5 · 2026-10-19 |
-| Black | xbox | Black-Continue (UnknuwProjects/Black-Continue) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | prerelease | v5.9 · 2026-11-09 |
+| Black | xbox | Black-Continue (UnknuwProjects/Black-Continue) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v5.8 · 2026-11-08 |
 | Black | xbox | Black-Android (UnknuwProjects/Black-Android) | android | unverified (repo < 1 year, < 100 stars) | — | v3.5 · 2026-10-31 |
 | Black | xbox | Black-Android (itswill00/Black-Android) | android | unverified (repo < 1 year, < 100 stars) | — | v1.7.1 · 2026-10-31 |
 | Black | xbox | Black-Android (killmaster1/Black-Android) | android | unverified (repo < 1 year, < 100 stars) | check_requirements | v1.2.0 · 2026-10-24 |
@@ -580,7 +592,7 @@
 | Dynasty Warriors 5 | xbox | DW5-Android (datfooldive/DW5-Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.7 · 2026-10-27 |
 | Halo: Combat Evolved | xbox | OpenCE (OpenCommunityEdition/OpenCE) | android | unverified (repo < 1 year) | zip | build-343 · 2026-11-06 |
 | Halo: Combat Evolved | xbox | halo-ce-universal (bnunu/halo-ce-universal) | source | unverified (repo < 1 year) | — | launcher-v1.8 · 2026-10-03 |
-| Halo: Combat Evolved | xbox | chupathingyce (ChupathingyCE/chupathingyce) | android | unverified (repo < 1 year) | prerelease, zip | nightly · 2026-11-07 |
+| Halo: Combat Evolved | xbox | chupathingyce (ChupathingyCE/chupathingyce) | android | unverified (repo < 1 year) | prerelease, zip | nightly · 2026-11-09 |
 | Halo: Combat Evolved | xbox | halo-ce-android (FulGerNet/halo-ce-android) | android | unverified (repo < 1 year) | — | 4.0 · 2026-10-11 |
 | Halo: Combat Evolved | xbox | SlipstreamCE (thelinkin3000/SlipstreamCE) | android | unverified (repo < 1 year, < 100 stars) | zip | build-140 · 2026-11-08 |
 | Halo: Combat Evolved | xbox | HaloCE-Android-AAOS (Andiweli/HaloCE-Android-AAOS) | android | unverified (repo < 1 year, < 100 stars) | — | 1.0.17 · 2026-11-04 |
@@ -607,7 +619,7 @@
 | Midnight Club 3: DUB Edition | xbox | midnight-club-3-dub-edition-remix-port-nativo (Masterllgod/midnight-club-3-dub-edition-remix-port-nativo) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | check_requirements, no_source | v0.2.0 · 2026-10-26 |
 | Mortal Kombat: Shaolin Monks | xbox | ShaolinMonks-Android (RanggaCasper/ShaolinMonks-Android) | android | unverified (repo < 1 year, < 3 contributors) | — | v1.1.2 · 2026-11-01 |
 | Mortal Kombat: Shaolin Monks | xbox | ShaolinMonks-Android (XDiaoXuanX/ShaolinMonks-Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | prerelease | v1.3.0 · 2026-11-01 |
-| Need for Speed: Most Wanted | xbox | Most Wanted for Android (RanggaCasper/MostWanted-Android) | android | unverified (repo < 1 year) | — | v1.3.0 · 2026-11-01 |
+| Need for Speed: Most Wanted | xbox | Most Wanted for Android (RanggaCasper/MostWanted-Android) | android | unverified (repo < 1 year) | — | v1.4.0 · 2026-11-09 |
 | Ninja Gaiden Black | xbox | ngbrecomp (gamboozino/ngbrecomp) | android | unverified (repo < 1 year) | — | v0.9.58 · 2026-11-05 |
 | Ninja Gaiden Black | xbox | ngbrecomp (Chakeyy/ngbrecomp) | android | unverified (repo < 1 year, < 100 stars) | — | v0.9.58-android-fix · 2026-11-07 |
 | Prince of Persia: The Sands of Time | xbox | rePOP (FulGerNet/rePOP) | android | unverified (repo < 1 year, < 3 contributors) | — | reSOTv0.5.0 · 2026-11-03 |
@@ -618,11 +630,11 @@
 | Asura's Wrath | xbox360 | asuras-wrath-recomp (PauloUbirajara/asuras-wrath-recomp) | android | unverified (repo < 1 year, < 3 contributors) | prerelease | v0.3.1.2 · 2026-09-11 |
 | Burnout Revenge | xbox360 | Xerenge (shipa-2/Xerenge) | android | unverified (repo < 1 year) | — | v0.4.10 · 2026-11-01 |
 | Destroy All Humans! Path of the Furon | xbox360 | redahm-android (deivid22srk/redahm-android) | android | unverified (repo < 1 year, < 100 stars) | — | v0.1.0 · 2026-08-19 |
-| Dragon Age: Origins | xbox360 | Dragon-Age-Origins-Recomp-Android-Duo (mabencs/Dragon-Age-Origins-Recomp-Android-Duo) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | prerelease | v0.2.1-alpha · 2026-11-08 |
+| Dragon Age: Origins | xbox360 | Dragon-Age-Origins-Recomp-Android-Duo (mabencs/Dragon-Age-Origins-Recomp-Android-Duo) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | prerelease | v0.2.2-alpha · 2026-11-09 |
 | Dragon Ball Z: Burst Limit | xbox360 | Dragon-Burst (dfdx047/Dragon-Burst) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | check_requirements | v0.2.1 · 2026-10-30 |
 | Dragon Ball: Raging Blast 2 | xbox360 | RB2-Android (moddedrounds/RB2-Android) | android | unverified (repo < 1 year, < 100 stars, < 3 contributors) | — | v1.2.3 · 2026-10-12 |
 | Dragon Ball: Raging Blast 2 | xbox360 | RB2-Android (BBlueSkyy/RB2-Android) | android | unverified (repo < 1 year, < 100 stars) | prerelease | touchplay-5f06997cfe91 · 2026-10-12 |
-| Eternal Sonata | xbox360 | EternalSonataReprise (birabittoh/EternalSonataReprise) | android | unverified (repo < 1 year, < 3 contributors) | — | v1.3.8 · 2026-11-03 |
+| Eternal Sonata | xbox360 | EternalSonataReprise (birabittoh/EternalSonataReprise) | android | unverified (repo < 1 year) | — | v1.3.8 · 2026-11-03 |
 | Fable II | xbox360 | FableDroid (hardsilinder/FableDroid) | android | unverified (repo < 1 year, < 100 stars) | — | v0.6.3-beta · 2026-11-02 |
 | Forza Horizon | xbox360 | pinyon-shift (arcanite24/pinyon-shift) | source | unverified (repo < 1 year, < 3 contributors) | — | v0.8.2 · 2026-11-08 |
 | Forza Horizon | xbox360 | pinyon-shift-android (deivid22srk/pinyon-shift-android) | source | unverified (repo < 1 year, < 100 stars) | — | Log · 2026-10-03 |
@@ -656,7 +668,7 @@
 | Skate 3 | xbox360 | Skate3-Mobile (AlanConstantino/Skate3-Mobile) | android | unverified (repo < 1 year, < 100 stars) | prerelease | rp6-av3-review · 2026-09-11 |
 | Skate 3 | xbox360 | Skate3-Mobile-Plus (linxlone666/Skate3-Mobile-Plus) | android | unverified (repo < 1 year, < 100 stars) | — | v2.1.4 · 2026-11-07 |
 | Skate 3 | xbox360 | Skate3-Mobile-by-VER40 (v39192503-ux/Skate3-Mobile-by-VER40) | android | unverified (repo < 1 year, < 100 stars) | — | v2.1.0-ver40.4 · 2026-10-05 |
-| Sonic Free Riders | xbox360 | Free-Riders-Recompiled (YuutaTsubasa/Free-Riders-Recompiled) | android | unverified (repo < 1 year) | — | v0.10.50 · 2026-11-08 |
+| Sonic Free Riders | xbox360 | Free-Riders-Recompiled (YuutaTsubasa/Free-Riders-Recompiled) | android | unverified (repo < 1 year) | — | v0.10.51 · 2026-11-09 |
 | Sonic the Hedgehog (2006) | xbox360 | MarathonRecomp_android-test-edition (Player124413/MarathonRecomp_android-test-edition) | android | verified | debug_build | Third · 2026-08-04 |
 | Sonic the Hedgehog (2006) | xbox360 | MarathonRecomp-Android (SansNope/MarathonRecomp-Android) | android | unverified (repo < 1 year, < 100 stars) | — | v0.2.3 · 2026-11-05 |
 | Sonic the Hedgehog (2006) | xbox360 | Marathon-Recomp-Android (mymes1/Marathon-Recomp-Android) | android | unverified (repo < 1 year, < 100 stars) | prerelease, check_requirements, debug_build | 0.1.5 · 2026-07-28 |
@@ -773,6 +785,7 @@
 | smithnic/balatro-portrait-android | Balatro | no releases |
 | steamytooolz-commits/openttd-android-v16 | OpenTTD | no releases |
 | StefanBETA/Friday-Night-Funkin-VS-Dave-And-Bambi-Definitive-Edition-Android-Port | Friday Night Funkin' | no releases |
+| Stlucifer15t/OceanTriRecomp-Android | Monster Hunter Tri | no releases |
 | sunrisebody1-lgtm/Sonic-1-Forever- | Sonic the Hedgehog | no releases |
 | svn2github/Frozen-Bubble-Android-port-x86 | Frozen Bubble | no releases |
 | takkaria/angband-android | Angband | no releases |
@@ -1086,6 +1099,12 @@
 | serdarbayram/Hill-Climb-Racing-Portmaster-Version | Climb | not a game port: the original is already an Android game |
 | SiamAlSobari/pocket-heroes-android13-port | Heroes | not a game port: the original is already an Android game |
 | Virjoinga/gangstar-wch-decomp | Gangstar | not a game port: the original is already an Android game |
+| Aimfev/Horizon-Android | Horizon-Android | original game not identified (set `game:` in sources.yaml) |
+| feiniao233/LumaGA | LumaGA | original game not identified (set `game:` in sources.yaml) |
+| finalpi/kdeconnect-android-lsposed | kdeconnect-android-lsposed | original game not identified (set `game:` in sources.yaml) |
+| k66680988-tech/usc-app | usc-app | original game not identified (set `game:` in sources.yaml) |
+| mamcjr/Swap2-Native | Switch 2 games | original game not identified (set `game:` in sources.yaml) |
+| stevenfelix505/f1race | f1race | original game not identified (set `game:` in sources.yaml) |
 | BelmanteGu/SuperMarioWonderRecomp | Super Mario Bros. Wonder | repo unavailable (HTTP 404) |
 | Delpod/openxcom-android | X-COM: UFO Defense | repo unavailable (HTTP 404) |
 | emileb/OpenTouch | Doom / Quake | repo unavailable (HTTP 404) |
@@ -1148,7 +1167,9 @@
 - imrunning/DungeonRush_Android
 - Javac-g/Heroes-lore.-The-wind-of-Soltia
 - JodiJodington/NetHack-Android
+- jp244btc/vs-smb-recomp
 - jwmcoder/openttd-android
+- khorne-hub/4u-native
 - ki-nk/rogue_legacy_port_android
 - knepe/cdogs-sdl-android
 - koi-ikeno/hex-a-hop-per
@@ -1178,3 +1199,24 @@
 - vilmoscseke/blupimania2-android
 - WuFdev/half-life-port-for-android
 - xiaosea/FrozenBubble
+
+## Added to sources.yaml this run
+
+- jp244btc/vs-smb-recomp
+- mamcjr/Swap2-Native
+- khorne-hub/4u-native
+- AstrohackerML/Descent2-Mobile
+- Aimfev/Horizon-Android
+- finalpi/kdeconnect-android-lsposed
+- gabrielvie/pokemon-fulldex
+- ivange91/pokemon-ds-widescreen
+- timyang2005/LASRecomp-Android-Plus
+- nexa-builds/zelda3-android-ds
+- GASQBDUV/zelda3-android
+- diegommcosta/zelda3-android
+- k66680988-tech/usc-app
+- ddCeka/openmw-android
+- stevenfelix505/f1race
+- sergioroprado/Serious-Sam-Android
+- master4life/zelda3-android
+- feiniao233/LumaGA

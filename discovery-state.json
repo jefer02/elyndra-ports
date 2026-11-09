@@ -1,4 +1,6 @@
 {
- "aliases": {},
+ "aliases": {
+  "am2r-android/am2r-autopatcher-android": "patchdev-am2arm/am2r-autopatcher-android"
+ },
  "portmasterCursor": 0
 }

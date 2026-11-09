@@ -5433,3 +5433,105 @@ ports:
     gameGuessed: true
     discovered: "portmaster-name-search"
     note: "Xroar port to Android 64bit machines"
+
+  # discovered 2026-11-09
+  - repo: jp244btc/vs-smb-recomp
+    game: "VS. Super Mario Bros."
+    platform: nes
+    platformGuessed: true
+    gameGuessed: true
+    discovered: "github-topic:recompilation"
+    note: "VS. Super Mario Bros. (arcade) as a native Windows, Linux, Steam Deck and Android program by static recompilation; bring your own dump"
+  - repo: mamcjr/Swap2-Native
+    game: "Switch 2 games"
+    platform: switch2
+    platformGuessed: true
+    gameGuessed: true
+    discovered: "github-search:\"switch 2\" port"
+    note: "Switch 2 games running natively on Android phones (fork of Banana Native)"
+  - repo: khorne-hub/4u-native
+    game: "Monster Hunter 4 Ultimate"
+    platform: pc
+    platformGuessed: true
+    gameGuessed: true
+    discovered: "github-search:recompiled android apk"
+    note: "Monster Hunter 4 Ultimate recompiled to native code for Android. Bring your own copy of the game."
+  - repo: AstrohackerML/Descent2-Mobile
+    game: "Descent II"
+    platform: dos
+    discovered: "fork:devint1/Descent2-Mobile"
+    note: "Descent II source port for Android"
+  - repo: Aimfev/Horizon-Android
+    game: "Horizon-Android"
+    platform: pc
+    gameGuessed: true
+    discovered: "fork:GoyDevv/Horizon-Android"
+    note: "Unofficial Horizon Android port: Rust Minecraft 26.3, Vulkan, editable touch controls and native .hmod mods."
+  - repo: finalpi/kdeconnect-android-lsposed
+    game: "kdeconnect-android-lsposed"
+    platform: pc
+    gameGuessed: true
+    discovered: "fork:KDE/kdeconnect-android"
+    note: "KDE Connect Android with an integrated LSPosed API 102 clipboard bridge for background and locked-screen sync"
+  - repo: gabrielvie/pokemon-fulldex
+    game: "Pokémon SoulSilver"
+    platform: nds
+    discovered: "fork:mamesj/pokemon-fulldex"
+    note: "Pokémon Fulldex: the DS games (Black 2, White 2, Black, White, SoulSilver, HeartGold, Platinum) and GBA games (Emerald, FireRed, LeafGreen, Ultra Violet) in wid"
+  - repo: ivange91/pokemon-ds-widescreen
+    game: "Pokémon SoulSilver"
+    platform: nds
+    discovered: "fork:mamesj/pokemon-fulldex"
+    note: "Pokémon DS en una pantalla panorámica: siete juegos en inglés y español. Descargas para Windows, Android e iOS. Necesitas tus propias ROMs."
+  - repo: timyang2005/LASRecomp-Android-Plus
+    game: "The Legend of Zelda: Link's Awakening"
+    platform: switch
+    discovered: "fork:Nycolazs/LASRecomp-Android-Plus"
+    note: "LAS Recomp for Android: Link's Awakening (Switch) statically recompiled to native ARM64 for Android phones - touch controls, 60 fps frame generation, set up fro"
+  - repo: nexa-builds/zelda3-android-ds
+    game: "The Legend of Zelda: A Link to the Past"
+    platform: snes
+    discovered: "fork:samyost1/zelda3-android"
+    note: "Zelda3 LTTP (dual screen mode) for RG DS Plus running GammaOS Nano"
+  - repo: GASQBDUV/zelda3-android
+    game: "The Legend of Zelda: A Link to the Past"
+    platform: snes
+    discovered: "fork:samyost1/zelda3-android"
+    note: "A port of Zelda3 to Android"
+  - repo: diegommcosta/zelda3-android
+    game: "The Legend of Zelda: A Link to the Past"
+    platform: snes
+    discovered: "fork:samyost1/zelda3-android"
+    note: "A port of Zelda3 to Android"
+  - repo: k66680988-tech/usc-app
+    game: "usc-app"
+    platform: pc
+    gameGuessed: true
+    discovered: "fork:SieR-VR/usc-app"
+    note: "Unnamed-SDVX-Clone Android Port"
+  - repo: ddCeka/openmw-android
+    game: "The Elder Scrolls III: Morrowind"
+    platform: pc
+    discovered: "fork:Sisah2/openmw-android"
+    note: "OpenMW for Android"
+  - repo: stevenfelix505/f1race
+    game: "f1race"
+    platform: pc
+    gameGuessed: true
+    discovered: "fork:six519/f1race"
+    note: "An Android port of F1 race game from MTK OS."
+  - repo: sergioroprado/Serious-Sam-Android
+    game: "Serious Sam: The Second Encounter"
+    platform: pc
+    discovered: "fork:Skyrimus/Serious-Sam-Android"
+  - repo: master4life/zelda3-android
+    game: "The Legend of Zelda: A Link to the Past"
+    platform: snes
+    discovered: "fork:yeticarus/zelda3-android"
+    note: "A port of Zelda3 to Android, with touchscreen support"
+  - repo: feiniao233/LumaGA
+    game: "LumaGA"
+    platform: pc
+    gameGuessed: true
+    discovered: "fork:yifgu/LumaGA"
+    note: "NGA Android 第三方客户端 add more features."
