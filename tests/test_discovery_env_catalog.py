@@ -177,6 +177,12 @@ class Catalog(unittest.TestCase):
         art = art or GameArt(igdbId=1029, releaseYear=1998, cover="https://images.igdb.com/c.jpg")
         return cat.build_entry(src, self.REPO, self.RELEASE, Verdict(True, flags=["prerelease"]), Trust(False, "< 3 contributors"), art, 2)
 
+    def test_links_in_the_repo_description_are_dropped(self):
+        self.assertEqual("Android port of", cat.plain_text("Android port of https://github.com/x/y"))
+        self.assertEqual("Simple port for Android", cat.plain_text("Simple port (https://x.y/z) for Android"))
+        self.assertNotIn("http", cat.plain_text("A clone of http://old.googlecode.com/svn. Cloned by http://svn2github.com/ , closed."))
+        self.assertEqual("Ship of Harkinian for Android", cat.plain_text("Ship of Harkinian for Android"))
+
     def test_an_entry_has_the_schema_2_shape_the_app_reads(self):
         e = self.entry()
         self.assertEqual("waterdish-shipwright-android", e["id"])

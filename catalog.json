@@ -3060,7 +3060,7 @@
    },
    "tags": [],
    "short": {
-    "en": "A port of https://www.github.com/n64decomp/sm64 for modern devices."
+    "en": "A port of for modern devices."
    },
    "trust": {
     "verified": true,
@@ -3228,7 +3228,7 @@
    },
    "tags": [],
    "short": {
-    "en": "An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has."
+    "en": "An official continuation of on sm64coopdx for the enhancements and progress it already has."
    },
    "trust": {
     "verified": true,
@@ -7886,7 +7886,7 @@
    },
    "tags": [],
    "short": {
-    "en": "Port Android de Pokemon Let's Go, Eevee! (letsgo-recomp) — runtime + camada Android, sem jogo, sem chaves. Canal no YouTube: https://youtube.com/@emuucheck"
+    "en": "Port Android de Pokemon Let's Go, Eevee! (letsgo-recomp) — runtime + camada Android, sem jogo, sem chaves. Canal no YouTube"
    },
    "release": {
     "tag": "v0.1",
@@ -19756,7 +19756,7 @@
    },
    "tags": [],
    "short": {
-    "en": "This is an unofficial Android port of Marathon recompiled. And yes, the launcher is very similar to https://github.com/SansNope/UnleashedRecomp-Android"
+    "en": "This is an unofficial Android port of Marathon recompiled. And yes, the launcher is very similar to"
    },
    "license": "GPL-3.0",
    "release": {
@@ -20069,7 +20069,7 @@
    },
    "tags": [],
    "short": {
-    "en": "Alternative fork for beta and test updates, main updates: https://github.com/SansNope/UnleashedRecomp-Android"
+    "en": "Alternative fork for beta and test updates, main updates"
    },
    "license": "GPL-3.0",
    "release": {
@@ -24641,7 +24641,7 @@
    },
    "tags": [],
    "short": {
-    "en": "This project is ported from DungeonRush(https://github.com/Rapiz1/DungeonRush)."
+    "en": "This project is ported from DungeonRush"
    },
    "license": "GPL-3.0",
    "trust": {
@@ -24718,7 +24718,7 @@
    },
    "tags": [],
    "short": {
-    "en": "An Android port of F1 race game from MTK OS. https://github.com/EXL/F1-Race"
+    "en": "An Android port of F1 race game from MTK OS."
    },
    "trust": {
     "verified": false,
@@ -25706,7 +25706,7 @@
    },
    "tags": [],
    "short": {
-    "en": "This is a clone of an SVN repository at http://frozenbubbleandroid.googlecode.com/svn. It had been cloned by http://svn2github.com/ , but the service was since closed. Please read a closing note on my blog post: http://piotr.gabryjeluk.pl/blog:closing-svn2github . If you want to continue synchronizing this repo, look at https://github.com/gabrys/svn2github"
+    "en": "This is a clone of an SVN repository at It had been cloned by , but the service was since closed. Please read a closing note on my blog post: . If you want to continue synchronizing this repo, look at"
    },
    "license": "GPL-2.0",
    "trust": {
@@ -25798,7 +25798,7 @@
    },
    "tags": [],
    "short": {
-    "en": "This is a frozenbubbleandroid(versionCode:36)-based product.The original android port source code is available at http://code.google.com/p/frozenbubbleandroid"
+    "en": "This is a frozenbubbleandroid(versionCode:36)-based product.The original android port source code is available at"
    },
    "license": "GPL-2.0",
    "trust": {
@@ -26318,7 +26318,7 @@
    },
    "tags": [],
    "short": {
-    "en": "GothicDroid - native Android build of OpenGothic (Gothic 1 and 2). Also a web version that works on Android, iPhone and PC: https://gothicplay.fun"
+    "en": "GothicDroid - native Android build of OpenGothic (Gothic 1 and 2). Also a web version that works on Android, iPhone and PC"
    },
    "license": "MIT",
    "release": {
@@ -30397,7 +30397,7 @@
    },
    "tags": [],
    "short": {
-    "en": "Quake 3 Android Port! I am not affiliated with the original author of the Play Store app (https://play.google.com/store/apps/details?id=com.n0n3m4.QIII4A&hl=en). But the original author did not create a GitHub repository for this code (the author included the sources in the apk, which you have to root your device to access). The original author may request ownership of this repository and I will gladly give it over."
+    "en": "Quake 3 Android Port! I am not affiliated with the original author of the Play Store app But the original author did not create a GitHub repository for this code (the author included the sources in the apk, which you have to root your device to access). The original author may request ownership of this repository and I will gladly give it over."
    },
    "trust": {
     "verified": false,
@@ -32119,7 +32119,7 @@
    },
    "tags": [],
    "short": {
-    "en": "A port of https://github.com/sm64-port/sm64-port for Android."
+    "en": "A port of for Android."
    },
    "trust": {
     "verified": false,
@@ -32175,7 +32175,7 @@
    },
    "tags": [],
    "short": {
-    "en": "Traducció al català del port a Android del joc \"Super Mario 64\" a partir del projecte de decompilació del joc: (https://github.com/VDavid003/sm64-port-android-base). Fet per Projecte 'Ce Trencada' com a part del projecte SM64-CAT."
+    "en": "Traducció al català del port a Android del joc \"Super Mario 64\" a partir del projecte de decompilació del joc: Fet per Projecte 'Ce Trencada' com a part del projecte SM64-CAT."
    },
    "release": {
     "tag": "v1.0",

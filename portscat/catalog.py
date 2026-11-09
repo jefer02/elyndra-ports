@@ -15,6 +15,14 @@ GENERIC_TOPICS = {
     "game-port", "android-port", "native-port", "pc-port", "static-recompilation", "decompiled", "android-game",
     "android-app", "androidgame", "port-android", "recompiled", "switch2", "nintendo-switch", "macos", "ios",
 }
+# Links in a repo description aren't shown in the store (and could point anywhere, ROM sites included).
+URL = re.compile(r"\s*\(?\bhttps?://\S+")
+
+
+def plain_text(desc: str) -> str:
+    return re.sub(r"\s{2,}", " ", URL.sub("", desc)).strip(" -–:,;")
+
+
 PLATFORM_ORDER = ["nes", "fds", "snes", "n64", "gc", "wii", "wiiu", "switch", "switch2", "gb", "gbc", "gba", "nds", "n3ds",
                   "psx", "ps2", "ps3", "ps4", "psp", "psvita", "sg1000", "mastersystem", "gamegear", "megadrive", "segacd",
                   "sega32x", "saturn", "dreamcast", "xbox", "xbox360", "pc", "dos"]
@@ -52,7 +60,7 @@ def build_entry(src: dict, repo: dict, release: dict | None, verdict, trust, art
                 inner_sha256: str | None = None) -> dict:
     slug = repo["full_name"]
     platform = src["platform"]
-    desc = (repo.get("description") or "").strip()
+    desc = plain_text(repo.get("description") or "")
     short = src.get("short") or ({"en": desc} if desc else {})
     requires = dict(src.get("requires") or {})
     requires.setdefault("userRom", True)
